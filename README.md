@@ -1,6 +1,6 @@
-# Códigos usando sonic-pi
+# Códigos usando Sonic-Pi
 
-Alguns códigos desenvolvidos usando sonic-pi.
+Alguns códigos desenvolvidos usando Sonic-Pi.
 Todas as músicas podem ser tocadas no próprio sonic-pi. Alguns códigos envolvendo apenas notas musicais podem ser convertidos para canções a serem reproduzidas no soundbuzzer do arduino, com a conversão adequada.
 
 ### Medleys
